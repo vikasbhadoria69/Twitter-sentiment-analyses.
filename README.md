@@ -7,6 +7,6 @@ In this Python project, the Tweepy module is used to stream live tweets directly
 ##sentiment_analyses.py --> Sentiment analysis
 
 
-Tweepy Website:http://www.tweepy.org/
-Cursor Docs: http://docs.tweepy.org/en/v3.5.0/curs...
-API Reference: http://docs.tweepy.org/en/v3.5.0/api.
+#Tweepy Website:http://www.tweepy.org/
+#Cursor Docs: http://docs.tweepy.org/en/v3.5.0/curs...
+#API Reference: http://docs.tweepy.org/en/v3.5.0/api.
